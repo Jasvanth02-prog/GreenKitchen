@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.home{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: greenyellow;
+    text-align: center
+    
+}
+
+li,ul,h1{
+    display: inline;
+}
+
+li{
+    color: gray;
+
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.products{
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.one{
+    display: inline-block;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    width: 210px;
+    height: 280px;    
+}
+
+.two{
+    display: inline-block;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    width: 210px;
+    height: 280px;
+}
+
+.three{
+    display: inline-block;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    width: 210px;
+    height: 280px;
+}
+
+.four{
+    display: inline-block;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    width: 210px;
+    height: 280px;
+    margin-top: 10px;
+}
+
+.five{
+    display: inline-block;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    width: 210px;
+    height: 280px;
+}
+
+h3{
+    background-color: black;
+    color: white;
+    display: inline;
+    padding: 3px;
+    margin-top: 10px;
+    margin: 56px;
+    
+}
+
+h3:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+.one:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.two:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.three:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.four:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.five:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    
+}
+
+h5{
+    background-color: yellow;
+    color: black;
+    font-size: larger;
+    display: inline-block;
+    margin: 20px;
+    width: 60%;
+}
+
+h5:hover{
+    background-color: red;
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
